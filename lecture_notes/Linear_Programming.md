@@ -50,7 +50,7 @@ $$
 对给定的$\lambda_1$， 有$\mathcal{L}(x, \lambda_1)$是凸的，故其稳定点：
 $$
 \left\{\begin{array}{rcl}
-\displaystyle\frac{\partial \mathcal{L}(x, \lambda_1)}{\partial x_1} &=& x_1 - \lambda = 0\\\\
+\displaystyle\frac{\partial \mathcal{L}(x, \lambda_1)}{\partial x_1} &=& x_1 - \lambda_1 = 0\\\\
 \displaystyle\frac{\partial \mathcal{L}(x, \lambda_1)}{\partial x_2} &=& x_2 = 0
 \end{array}\right.
 \Rightarrow
