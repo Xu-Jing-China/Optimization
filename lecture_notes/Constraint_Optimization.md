@@ -352,7 +352,7 @@ $$
 
 再观察一下另一个两个约束都活跃的点$x = (\sqrt{2}, 0)^T$。此时
 $$
-\nabla f(x^*) = \left[\begin{array}{c}1\\1\end{array}\right], \quad \nabla c_1(x^*) = \left[\begin{array}{c}-2\sqrt{2}\\0\end{array}\right], \quad\nabla c_2(x^*) = \left[\begin{array}{c}0\\1\end{array}\right],
+\nabla f(x) = \left[\begin{array}{c}1\\1\end{array}\right], \quad \nabla c_1(x) = \left[\begin{array}{c}-2\sqrt{2}\\0\end{array}\right], \quad\nabla c_2(x) = \left[\begin{array}{c}0\\1\end{array}\right],
 $$
 于是
 $$
