@@ -225,7 +225,7 @@ s_N = c_N - (B^{-1}N)^Tc_B = \left[
 1 & 1\\
 2 & \frac12
 \end{array}
-\right])\cdot \left[
+\right])^\cdot \left[
 \begin{array}{c}
 0 \\0
 \end{array}
