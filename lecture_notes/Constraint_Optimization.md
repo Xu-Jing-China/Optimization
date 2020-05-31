@@ -437,7 +437,7 @@ $$
 
 比如，如果对$c_i(x)$的函数值施加一个小扰动，导致$c_i(x) \geq 0$变为$c_i(x) \geq -\varepsilon\|\nabla c_i(x^*)\|$，则对$x^*$的活跃约束有
 $$
-\frac{c_i(x^*(\varepsilon)) - c_i(x^*)}{x^*(\varepsilon) - x^*} = \nabla c_i(x^*)\Rightarrow c_i(x^* + \varepsilon) - c_i(x^*) \approx(x^*(\varepsilon) - x^*)^T\nabla c_i(x^*).
+\frac{c_i(x^*(\varepsilon)) - c_i(x^*)}{x^*(\varepsilon) - x^*} = \nabla c_i(x^*)\Rightarrow c_i(x^*(\varepsilon)) - c_i(x^*) \approx(x^*(\varepsilon) - x^*)^T\nabla c_i(x^*).
 $$
 这里$x^*(\varepsilon)$对应扰动后的新解。而对$j \neq i$，因为扰动未改变$c_j(x)$，故$x^*(\varepsilon)$和$x^*$对$c_j(x)$而言有相同的函数值，即
 $$
