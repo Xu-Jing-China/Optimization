@@ -162,7 +162,7 @@ q(\lambda) = \inf_x \mathcal{L}(x, \lambda) = \inf_x \frac{1}{2} x^TGx + c^Tx - 
 $$
 由$G$对称正定，$\mathcal{L}(x, \lambda)$严格凸，故$\inf$在$\nabla_x\mathcal{L}(x, \lambda) = 0$，即
 $$
-Gx + c - A^T\lambda \Rightarrow x = G^{-1}(A^T\lambda - c). \tag{12.93}
+Gx + c - A^T\lambda = 0 \Rightarrow x = G^{-1}(A^T\lambda - c). \tag{12.93}
 $$
 由上式，得
 $$
