@@ -454,7 +454,7 @@ $$
 最后一步是因为对$j \neq i$，求和项均为零。进而，
 $$
 \begin{equation}
-\frac{d f(x^*(\varepsilon))}{d \varepsilon} = \lambda_i^*\|\nabla c_i(x^*)\|.
+\frac{d f(x^*(\varepsilon))}{d \varepsilon} = - \lambda_i^*\|\nabla c_i(x^*)\|.
 \tag{12.80}
 \end{equation}
 $$
