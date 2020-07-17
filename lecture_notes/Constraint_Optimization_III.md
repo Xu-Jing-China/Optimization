@@ -173,7 +173,7 @@ $$
 \nabla_{xx}^2\mathcal{L}(x, \lambda) &=& \left[
 \begin{array}{cc}
 -0.2 - 2 \lambda_1 & 0\\
-0 & 2 - 2\lambda_2
+0 & 2 - 2\lambda_1
 \end{array}
 \right]\tag{12.73b},
 \end{eqnarray}
